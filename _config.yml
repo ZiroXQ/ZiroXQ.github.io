@@ -30,7 +30,7 @@ twitter_username: ZiroXQ505
 github_username:  ZiroXQ
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
