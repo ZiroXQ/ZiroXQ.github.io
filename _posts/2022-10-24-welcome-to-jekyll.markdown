@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Radja's domain!"
+title:  "Welcome to Jekyll!"
 date:   2022-10-24 11:38:36 +0700
 categories: jekyll update
 ---
