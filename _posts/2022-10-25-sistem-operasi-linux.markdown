@@ -31,7 +31,7 @@
     </div>
     <div class="card">
       <h3>Follow Me</h3>
-      <p>on Instagram: https://instagram.com/teukuradjasha</p>
+          <p><a href="https://instagram.com/teukuradjasha" class="fa fa-instagram">teukuradjasha</a></p> 
     </div>
   </div>
 </div>
@@ -86,7 +86,7 @@ padding-left: 20px;
 /* Fake image */
 .fakeimg {
 background-color: rgb(136, 231, 223);
-width: 75%;
+width: 25%;
 padding: 20px;
 }
 
